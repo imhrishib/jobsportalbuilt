@@ -1,0 +1,15 @@
+.home-container{
+    width:70%;
+    margin:5vw auto;
+    background-color:white;
+}
+.Linkto{
+    width:60%;
+    margin:4vw auto;
+    text-align:center;
+    
+    color:white;
+    background-color:#007b;
+    cursor:pointer;
+    border-radius:50px;
+}

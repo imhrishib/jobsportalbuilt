@@ -1,0 +1,12 @@
+.all-jobs{
+    display:flex;
+    flex-wrap:wrap;
+    width:80%;
+    margin:auto;
+}
+.job-container{
+    width:20%;
+    margin:1vw;
+    background-color: #007b !important;
+
+}
